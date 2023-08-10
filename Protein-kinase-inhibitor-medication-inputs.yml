@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-imatinib---primary.py
+inputModule3:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-tarceva---primary.py
+inputModule4:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-glivec---primary.py
+inputModule5:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-erlotinib---primary.py
+inputModule6:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-200mg---primary.py
+inputModule7:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-250mg---primary.py
+inputModule8:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-dasatinib---primary.py
+inputModule9:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-125mg---primary.py
+inputModule10:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-nilotinib---primary.py
+inputModule11:
+  class: File
+  path: python/protein-kinase-inhibitor-medication---primary.py
+inputModule12:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-afinitor---primary.py
+inputModule13:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-everolimu---primary.py
+inputModule14:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-pazopanib---primary.py
+inputModule15:
+  class: File
+  path: python/votrient-protein-kinase-inhibitor-medication---primary.py
+inputModule16:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-100mg---primary.py
+inputModule17:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-axitinib---primary.py
+inputModule18:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-tablet---primary.py
+inputModule19:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-ruxolitinib---primary.py
+inputModule20:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-afatinib---primary.py
+inputModule21:
+  class: File
+  path: python/tafinlar-protein-kinase-inhibitor-medication---primary.py
+inputModule22:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-nintedanib---primary.py
+inputModule23:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-140mg---primary.py
+inputModule24:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-dabrafenib---primary.py
+inputModule25:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-trametinib---primary.py
+inputModule26:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-capsule---primary.py
+inputModule27:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-150mg---primary.py
+inputModule28:
+  class: File
+  path: python/protein-kinase-inhibitor-medication-cabozantinib---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
